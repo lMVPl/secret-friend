@@ -1,12 +1,12 @@
-<h1>Secret Friend</h1>
+<h1>Amigo Secreto</h1>
 
-An application that allows users to enter friends' names into a list and then perform a random draw to determine who is the **"secret friend"**.
+Aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el **"amigo secreto"**.
 
-The user must add names using a text field and an **"Add"** button. The names entered will be displayed in a list visible on the page, and upon completion, a **"Draw Friend"** button will randomly select one of the names, showing the result on the screen.
+El usuario deberá agregar nombres mediante un campo de texto y un botón **"Adicionar"**. Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón **"Sortear Amigo"** seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
 
-### Features:
+### Fucionalidades:
 
-- **Add names:** Users will type a friend's name into a text field and add it to a visible list by clicking **"Add"**.
-- **Validate input:** If the text field is empty, the program will display an alert asking for a valid name.
-- **View the list:** The names entered will appear in a list below the input field.
-- **Random Draw:** When you click the **"Draw Friend"** button, a name will be randomly selected from the list and displayed on the page.
+- **Agregar nombres:** Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en **"Adicionar"**.
+- **Validar entrada:** Si el campo de texto está vacío o contiene números, el programa mostrará una alerta pidiendo un nombre válido.
+- **Visualizar la lista:** Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
+- **Sorteo aleatorio:** Al hacer clic en el botón **"Sortear Amigo"**, se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
