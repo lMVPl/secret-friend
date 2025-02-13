@@ -1,12 +1,37 @@
-<h1>Amigo Secreto</h1>
+# 🎁 Amigo Secreto  
 
-Aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el **"amigo secreto"**.
+Una aplicación interactiva para realizar sorteos de **Amigo Secreto** de manera sencilla y rápida. Los usuarios pueden ingresar nombres en una lista y realizar un sorteo aleatorio para determinar quién será el **amigo secreto** de cada participante.  
 
-El usuario deberá agregar nombres mediante un campo de texto y un botón **"Adicionar"**. Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón **"Sortear Amigo"** seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
+## 🚀 Características  
 
-### Fucionalidades:
+✅ **Agregar nombres:** Los usuarios pueden escribir el nombre de un amigo en un campo de texto y agregarlo a una lista visible con un clic en **"Adicionar"**.  
+✅ **Validación de entrada:** El sistema evita nombres vacíos o que contengan números, asegurando una lista válida.  
+✅ **Visualización en tiempo real:** Los nombres ingresados se muestran inmediatamente en una lista.  
+✅ **Sorteo aleatorio:** Con un solo clic en **"Sortear Amigo"**, la aplicación elige un nombre al azar y lo muestra en pantalla.  
 
-- **Agregar nombres:** Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en **"Adicionar"**.
-- **Validar entrada:** Si el campo de texto está vacío o contiene números, el programa mostrará una alerta pidiendo un nombre válido.
-- **Visualizar la lista:** Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
-- **Sorteo aleatorio:** Al hacer clic en el botón **"Sortear Amigo"**, se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+## 📷 Captura de pantalla 
+
+![Vista previa de la aplicación](assets/amigo_secreto.png)
+
+## 🔧 Tecnologías utilizadas  
+
+- **HTML** – Estructura del proyecto  
+- **CSS** – Diseño y estilos  
+- **JavaScript** – Funcionalidad e interactividad  
+
+## 📌 Cómo usar  
+
+1. Ingresa el nombre de los participantes en el campo de texto.  
+2. Presiona **"Adicionar"** para agregarlos a la lista.  
+3. Cuando todos los nombres estén en la lista, haz clic en **"Sortear Amigo"**.  
+4. ¡El nombre seleccionado se mostrará en pantalla!  
+
+## 📂 Instalación y ejecución 
+
+Si deseas ejecutar este proyecto localmente:  
+
+1. Clona este repositorio:  
+   ```bash
+   git clone https://github.com/tu-usuario/amigo-secreto.git
+   ```  
+2. Abre el archivo `index.html` en tu navegador.
